@@ -1,3 +1,18 @@
+# Introdução a Ciência da Computação
+
+**Projeto SymPy**   
+Uma ferramenta para visualização de equações e formulas matemáticas, e para cálculo simbolico de equações.
+
+Por exemplo, a raiz de 3 não possui um valor finito, então ao avaliar a expressão sqrt(3), o computador é limitado ao número de casas decimais. Com SymPy, é possível abstrair a avaliação da expressão, e trabalhar com a raiz simbólica, ou seja o operador √(3)
+
+Projeto original: https://github.com/sympy/sympy.github.com   
+Autores: https://www.sympy.org/   
+
+Gist: https://gist.github.com/mathiashemmer/1bd4a77d65de344a4d2e57fd30ada2cc
+
+Drive: https://colab.research.google.com/drive/1yUX0aolqYUg5uCon-zCAiukuRju1mPtH
+
+
 # SymPy Website
 
 [![Build

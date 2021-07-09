@@ -13,6 +13,14 @@ Gist: https://gist.github.com/mathiashemmer/1bd4a77d65de344a4d2e57fd30ada2cc
 Drive: https://colab.research.google.com/drive/1yUX0aolqYUg5uCon-zCAiukuRju1mPtH
 
 
+## Sobre:
+
+A aplicação exempifica alguns casos de uso básicos da biblioteca SymPy. A documentação é bem escrita e de fácil compreensão. Não houve dificuldades
+em nenhuma etapa do desenvolvimento.   
+
+A princípio, a biblioteca parece seguir padrões e ter coerência com as nomeclaturas, facilitando o seu uso e garantindo que mesmo intuitivamente, consegue-se encontrar o que procura-se.
+
+
 # SymPy Website
 
 [![Build
